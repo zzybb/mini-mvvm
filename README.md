@@ -1,2 +1,2 @@
 # mini-mvvm
- 迷你版MVVM框架
+ 迷你版Vue框架
